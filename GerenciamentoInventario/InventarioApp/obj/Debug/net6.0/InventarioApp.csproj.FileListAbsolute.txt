@@ -1,0 +1,15 @@
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\bin\Debug\net6.0\InventarioApp.exe
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\bin\Debug\net6.0\InventarioApp.deps.json
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\bin\Debug\net6.0\InventarioApp.runtimeconfig.json
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\bin\Debug\net6.0\InventarioApp.dll
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\bin\Debug\net6.0\InventarioApp.pdb
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\obj\Debug\net6.0\InventarioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\obj\Debug\net6.0\InventarioApp.AssemblyInfoInputs.cache
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\obj\Debug\net6.0\InventarioApp.AssemblyInfo.cs
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\obj\Debug\net6.0\InventarioApp.csproj.CoreCompileInputs.cache
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\obj\Debug\net6.0\InventarioApp.sourcelink.json
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\obj\Debug\net6.0\InventarioApp.dll
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\obj\Debug\net6.0\refint\InventarioApp.dll
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\obj\Debug\net6.0\InventarioApp.pdb
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\obj\Debug\net6.0\InventarioApp.genruntimeconfig.cache
+C:\Users\leila.gomes\source\repos\DIO\testes-unitarios-xunit\GerenciamentoInventario\InventarioApp\obj\Debug\net6.0\ref\InventarioApp.dll
